@@ -1,0 +1,7 @@
+T01 [Course 01, Course 02, Course 03, Course 04, Course 05, Course 06, Course 24, Course 34]
+T02 [Course 04, Course 06, Course 07, Course 08, Course 09, Course 10, Course 14, Course 16, Course 19]
+T03 [Course 11, Course 12, Course 13, Course 14, Course 15]
+T04 [Course 11, Course 16, Course 17, Course 18, Course 19, Course 20]
+T05 [Course 21, Course 22, Course 23, Course 24, Course 25, Course 31]
+T06 [Course 26, Course 27, Course 28, Course 29, Course 30]
+T07 [Course 01, Course 09, Course 21, Course 26, Course 29, Course 31, Course 32, Course 33, Course 34, Course 35]
